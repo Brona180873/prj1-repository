@@ -1,0 +1,12 @@
+<!doctype html> 
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Why Kanye West is the Greatest of All Time</title>
+</head>
+<body>
+<h1>Megastar, Rapper, Producer, Fashion Designer and Icon</h1>
+<img src="kanyewest.jpg">
+<p>He's been in the game for about 16 years now, having released 9 solo albums and a couple of collaborative projects as well.</p> 
+</body>
+</html>
